@@ -16,3 +16,4 @@ Instructions:
 
 • Start over.
 
+![Pixel Maker Diagram](://)
