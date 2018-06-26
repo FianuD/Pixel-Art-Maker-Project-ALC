@@ -16,4 +16,4 @@ Instructions:
 
 • Start over.
 
-![Pixel Maker Diagram](://)
+![Pixel Maker Diagram](https://github.com/FianuD/Pixel-Art-Maker-Project-ALC/blob/master/Pixel%20Art%20Maker%20Final.png)
