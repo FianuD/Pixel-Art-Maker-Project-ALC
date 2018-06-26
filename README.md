@@ -12,8 +12,6 @@ Instructions:
 
 • Double click a cell to set it's color back to white
 
-• Press reset button to clear the grid
-
 • Start over.
 
 ![Pixel Maker Diagram](https://github.com/FianuD/Pixel-Art-Maker-Project-ALC/blob/master/Pixel%20Art%20Maker%20Final.png)
